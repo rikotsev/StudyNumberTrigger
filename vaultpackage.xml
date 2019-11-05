@@ -1,0 +1,12 @@
+<vaultpackage xmlns="https://veevavault.com/">
+<name>PKG-StudyNumberTrigger</name>
+<source>
+<vault></vault>
+<author>radoslav.kotsev@veeva.com</author>
+</source>
+<summary>Study Number Trigger</summary>
+<description></description>
+<javasdk>
+	<deployment_option>incremental</deployment_option>
+</javasdk>
+</vaultpackage>
